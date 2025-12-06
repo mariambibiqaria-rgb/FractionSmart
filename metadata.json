@@ -1,0 +1,5 @@
+{
+  "name": "FractionSmart",
+  "description": "A smart mobile-first fraction calculator that visualizes results and provides AI-powered step-by-step explanations.",
+  "requestFramePermissions": []
+}
